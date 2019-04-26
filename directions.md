@@ -17,3 +17,8 @@ git push -u origin master
 ```
 10. Create a pull request.
 ![Alt](/fork2.png "fork2")
+11. Click "Create pull request".
+![Alt](/fork3.png "fork3")
+12. Click "Create pull request" again.
+![Alt](/fork4.png "fork4")
+13. Close the window (don't click "Close pull request")
