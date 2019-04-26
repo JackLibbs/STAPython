@@ -1,7 +1,7 @@
 1.	Go to github.com and log in.
 2.	Navigate to dwchambers/STAPython.
 3.	Click the fork button in the upper right hand corner. 
-![Alt](/fork1.png "fork1")
+![Alt](/images/fork1.png "fork1")
 4.	Open a terminal.
 5.	Navigate to a new/clean folder. You can delete your old STAPython folder if you have one.
 6.	Type 
@@ -16,9 +16,9 @@ git commit 'added <first_three_of_last_name>.txt'
 git push -u origin master
 ```
 10. Create a pull request.
-![Alt](/fork2.png "fork2")
+![Alt](/images/fork2.png "fork2")
 11. Click "Create pull request".
-![Alt](/fork3.png "fork3")
+![Alt](/images/fork3.png "fork3")
 12. Click "Create pull request" again.
-![Alt](/fork4.png "fork4")
+![Alt](/images/fork4.png "fork4")
 13. Close the window (don't click "Close pull request")
