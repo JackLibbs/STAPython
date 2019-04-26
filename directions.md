@@ -12,7 +12,7 @@
 9.  Add and commit your changes.
 ```
 git add <first_three_of_last_name>.txt
-git commit 'added <first_three_of_last_name>.txt'
+git commit -m 'added <first_three_of_last_name>.txt'
 git push -u origin master
 ```
 10. Create a pull request.
